@@ -1,3 +1,3 @@
 # CalculatorTestingDemo
 
-Created four test cases for Addition, Subtrcation, Multiply and Division
+Created four test cases for Addition, Subtraction, Multiply and Division
